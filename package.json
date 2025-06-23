@@ -1,0 +1,20 @@
+{
+  "name": "l-prompt-resp-organizer",
+  "version": "1.0.0",
+  "description": "database that organizes chatgpt and other LLM responses.  I want to offload all my LLM content from these places to a centralized database of markdown files.  I want to be able to search and navigate this database easily.  I want to be able to tag and categorize the responses easily.  I want to be able to export the database easily.  I want to be able to import the database easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveroliverio/L-prompt-resp-organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveroliverio/L-prompt-resp-organizer/issues"
+  },
+  "homepage": "https://github.com/oliveroliverio/L-prompt-resp-organizer#readme"
+}
